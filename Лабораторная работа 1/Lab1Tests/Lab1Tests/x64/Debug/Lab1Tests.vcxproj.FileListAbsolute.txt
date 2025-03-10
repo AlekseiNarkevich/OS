@@ -1,0 +1,6 @@
+C:\Users\alesi\OneDrive\Рабочий стол\Lab1Tests\x64\Debug\gtest.dll
+C:\Users\alesi\OneDrive\Рабочий стол\Lab1Tests\Lab1Tests\x64\Debug\Lab1Tests.vcxproj.Up2Date
+C:\Users\alesi\OneDrive\Рабочий стол\Lab1Tests\x64\Debug\gtest_main.dll
+C:\Users\alesi\Desktop\Lab1Tests\x64\Debug\gtest.dll
+C:\Users\alesi\Desktop\Lab1Tests\x64\Debug\gtest_main.dll
+C:\Users\alesi\Desktop\Lab1Tests\Lab1Tests\x64\Debug\Lab1Tests.vcxproj.Up2Date
