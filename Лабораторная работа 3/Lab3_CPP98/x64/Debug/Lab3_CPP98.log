@@ -1,0 +1,8 @@
+﻿  Lab3_CPP98.cpp
+C:\Users\alesi\Desktop\Lab3\Lab3_CPP98\Lab3_CPP98.cpp(16,27): warning C4311: reinterpret_cast: усечение указателя из "LPVOID" в "int"
+C:\Users\alesi\Desktop\Lab3\Lab3_CPP98\Lab3_CPP98.cpp(16,27): warning C4302: reinterpret_cast: усечение из "LPVOID" к "int"
+C:\Users\alesi\Desktop\Lab3\Lab3_CPP98\Lab3_CPP98.cpp(84,59): warning C4312: reinterpret_cast: преобразование из "int" в "LPVOID" большего размера
+C:\Users\alesi\Desktop\Lab3\Lab3_CPP98\Lab3_CPP98.cpp(93,50): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Lab3_CPP98.vcxproj -> C:\Users\alesi\Desktop\Lab3\x64\Debug\Lab3_CPP98.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
