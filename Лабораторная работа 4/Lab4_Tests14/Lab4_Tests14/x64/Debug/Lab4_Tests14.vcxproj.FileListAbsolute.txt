@@ -1,0 +1,6 @@
+C:\Users\alesi\Desktop\Lab4_Tests14\x64\Debug\gtest.dll
+C:\Users\alesi\Desktop\Lab4_Tests14\x64\Debug\gtest_main.dll
+C:\Users\alesi\Desktop\Lab4_Tests14\Lab4_Tests14\x64\Debug\Lab4_Tes.7B3CB953.Up2Date
+C:\Users\alesi\Desktop\1 КУРС\Инфа\2 курс\Операционные системы\Лабораторная работа 4\Lab4_Tests14\x64\Debug\gtest.dll
+C:\Users\alesi\Desktop\1 КУРС\Инфа\2 курс\Операционные системы\Лабораторная работа 4\Lab4_Tests14\x64\Debug\gtest_main.dll
+C:\Users\alesi\Desktop\1 КУРС\Инфа\2 курс\Операционные системы\Лабораторная работа 4\Lab4_Tests14\Lab4_Tests14\x64\Debug\Lab4_Tes.7B3CB953.Up2Date
