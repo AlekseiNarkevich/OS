@@ -1,0 +1,11 @@
+.vs/
+**/*.ipch
+**/*.pdb
+**/*.idb
+**/*.ilk
+**/*.log
+**/*.recipe
+**/*.tlog
+**/*.obj
+**/*.vcxproj.FileListAbsolute.txt
+**/*.applocal.log
