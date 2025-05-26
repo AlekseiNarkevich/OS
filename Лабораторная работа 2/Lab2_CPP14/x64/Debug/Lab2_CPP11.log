@@ -1,9 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Lab2_CPP11.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  average.cpp
-  data.cpp
-  main.cpp
-  min_max.cpp
-  Создание кода...
-  Lab2_CPP11.vcxproj -> C:\Users\alesi\Desktop\Лабораторная работа 2\x64\Debug\Lab2_CPP14.exe
-  "pwsh.exe" не является внутренней или внешней
-  командой, исполняемой программой или пакетным файлом.
